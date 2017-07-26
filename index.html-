@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>CAPACITORS</title>
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+		<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800" rel="stylesheet">
+		<link href="css/owl.carousel.css" rel="stylesheet">
+		<link href="css/animate.css" rel="stylesheet">
+		<link href="css/style.css" rel="stylesheet">
+	</head>
+  <body>
+    
+	<header> 		
+		<div class="menu-bar">
+			<div class="container">
+				<nav class="navbar navbar-default">
+				  <div class="container-fluidd">
+					<div class="navbar-header">
+					  <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span> 
+					  </button>
+					  <div class="brand">
+					  	<a href="#"><!-- <img src="images/logo.png" alt=""> --> COMPANY LOGO</a>
+					  </div>
+					</div>
+					<div class="collapse navbar-collapse text-right" id="myNavbar">
+						<div class="cart-butt">
+							<form class="search-by-key">
+								<input type="text" name="" placeholder="Search by Keyword">
+								<button type="submit"><img src="images/search-icon.png" alt=""></button>
+							</form>
+							<div class="lang">
+								<select class="select-lang">
+									<option>English</option>
+									<option>Chinese</option>
+								</select>
+								<label>Chinese <span>中文</span></label>
+							</div>
+						</div>
+						<ul class="nav navbar-nav navbar-manues">
+						  <li class="active"><a href="index.html">HOME</a></li>
+						  <li><a href="">  CAPACITORS    </a></li>
+						  <li><a href="#"> SOLUTIONS  </a></li>
+						  <li><a href="">  TECHNICAL CENTER  </a></li> 
+						  <li><a href=""> DESIGN CENETER  </a></li> 
+						  <li><a href="#">ABOUT US</a></li> 
+						  <li><a href="#"> NEWS</a></li> 
+						  <li><a href="#">CONTACTS</a></li>
+						</ul>
+					</div>
+				  </div>
+				</nav>
+			</div>
+		</div>
+	</header>
+
+	<section class="category-sec">
+		<div class="red-bg-sec">
+				<div id="top-slider" class="carousel slide" data-ride="carousel">
+					<!-- <ol class="carousel-indicators">
+					  <li data-target="#top-slider" data-slide-to="0" class="active"></li>
+					  <li data-target="#top-slider" data-slide-to="1"></li>
+					  <li data-target="#top-slider" data-slide-to="2"></li>
+					  <li data-target="#top-slider" data-slide-to="3"></li>
+					  <li data-target="#top-slider" data-slide-to="4"></li>
+					</ol> -->
+					<div class="carousel-inner" role="listbox">
+					  <div class="item active">
+							<div class="slide-content">
+								<img src="images/banner-img.png" alt="">
+							</div>
+					  </div>
+					   <div class="item">
+							<div class="slide-content">
+								<img src="images/banner-img.png" alt="">
+							</div>
+					  </div>
+					  <div class="item">
+							<div class="slide-content">
+								<img src="images/banner-img.png" alt="">
+							</div>
+					  </div>
+						<div class="on-slider-div">
+							<div class="container">
+							  <div class="slider-form">
+							  	<div class="row">
+							  		<div class="col-md-3 wow  slideInLeft" data-wow-duration="0.6s">
+							  			<form class="form-bg">
+							  				<h5>SITE SEARCH</h5>
+							  				<div class="input-box">
+							  					<input type="text" name="" placeholder="Search Team" />
+							  					<button type="submit"><img src="images/slider-search.png" alt=""></button>
+							  				</div>
+							  				<h5>PARAMETRIC SEARCH</h5>
+							  				<div class="input-box">
+							  					<input type="text" name="" placeholder="Partial Part Number" />
+							  					<button type="submit"><img src="images/slider-search.png" alt=""></button>
+							  				</div>
+							  				<h5>COMPETITOR CROSS REFERENCE</h5>
+							  				<div class="input-box">
+							  					<a href="">Search by Manu Facturer</a>
+							  				</div>
+							  			</form>
+							  		</div>
+							  		<div class="col-md-3 wow  slideInRight" data-wow-duration="0.6s">
+							  			<div class="right-ideas">
+							  				<a href="#">ENERGIZING IDEAS</a>
+							  				<h4>Delivering optimal capacitor <br>Solution for your design</h4>
+							  			</div>
+							  		</div>
+							  	</div>
+							  </div>
+							 </div>
+						</div>
+						</div>
+					<!-- Left and right controls -->
+					 <!--  <a class="left carousel-control" href="#top-slider" role="button" data-slide="prev">
+					    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+					    <span class="sr-only">Previous</span>
+					  </a>
+					  <a class="right carousel-control" href="#top-slider" role="button" data-slide="next">
+					    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+					    <span class="sr-only">Next</span>
+					  </a> -->
+				</div>
+		</div>
+	</section>
+
+	<section class="tabs-sectionb">
+		<div class="container">
+			<ul class="tabs-list">
+				<li class="active">
+					<a href="#" class="wow  slideInDown" data-wow-duration="0.2s">
+						<div class="tab-img-box">
+							<img src="images/bulb.png" alt="">
+						</div>
+						<h5>intelligent electrical</h5>
+					</a>
+				</li>
+				<li>
+					<a href="#" class="wow  slideInDown" data-wow-duration="0.4s">
+						<div class="tab-img-box">
+							<img src="images/top-arrow.png" alt="">
+						</div>
+						<h5>Lorem Ipsum</h5>
+					</a>
+				</li>
+				<li>
+					<a href="#" class="wow  slideInDown" data-wow-duration="0.6s">
+						<div class="tab-img-box">
+							<img src="images/top-arrow.png" alt="">
+						</div>
+						<h5>Lorem Ipsum</h5>
+					</a>
+				</li>
+				<li>
+					<a href="#" class="wow  slideInDown" data-wow-duration="0.8s">
+						<div class="tab-img-box">
+							<img src="images/top-arrow.png" alt="">
+						</div>
+						<h5>Lorem Ipsum</h5>
+					</a>
+				</li>
+				<li>
+					<a href="#" class="wow  slideInDown" data-wow-duration="1s">
+						<div class="tab-img-box">
+							<img src="images/top-arrow.png" alt="">
+						</div>
+						<h5>Lorem Ipsum</h5>
+					</a>
+				</li>
+				<li>
+					<a href="#" class="wow  slideInDown" data-wow-duration="1.2s">
+						<div class="tab-img-box">
+							<img src="images/top-arrow.png" alt="">
+						</div>
+						<h5>Lorem Ipsum</h5>
+					</a>
+				</li>
+				<li>
+					<a href="#" class="wow  slideInDown" data-wow-duration="1.4s">
+						<div class="tab-img-box">
+							<img src="images/top-arrow.png" alt="">
+						</div>
+						<h5>Lorem Ipsum</h5>
+					</a>
+				</li>
+			</ul>
+		</div>
+	</section>
+
+	<section class="company-profile">
+		<div class="comp-profile-top">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-4">
+						<div class="profile-box-in wow  slideInLeft" data-wow-duration="0.6s">
+							<div class="row">
+								<div class="col-sm-5">
+									<img src="images/game-chancer.png" alt="">
+								</div>
+								<div class="col-sm-7">
+									<h3>THE CONSTRUCTION WORLD'S NEXT 'GAME CHANGER</h3>
+									<a href="#">LEARN MORE</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4">
+						<div class="profile-box-in wow  fadeIn" data-wow-duration="0.8s">
+							<div class="row">
+								<div class="col-sm-5">
+									<img src="images/road-way.png" alt="">
+								</div>
+								<div class="col-sm-7">
+									<h3>3D PAVING DRIVES RACE TRACJ CONSTRUCTION</h3>
+									<a href="#">LEARN MORE</a>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-4">
+						<div class="profile-box-in wow  slideInRight" data-wow-duration="0.6s">
+							<div class="row">
+								<div class="col-sm-5">
+									<img src="images/maintenance.png" alt="">
+								</div>
+								<div class="col-sm-7">
+									<h3>RAIL EQUIPMENT CUTS MAINTENANCE TIME</h3>
+									<a href="#">LEARN MORE</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="comp-profile-bottom">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-3">
+						<div class="com-profile-design wow  fadeInLeft" data-wow-duration="0.8s">
+							<h3>Company Profile</h3>
+							<p>A globle Leader In Size Scope Reach And Character .</p>
+							<a href="#">LEARN MORE</a>
+						</div>
+					</div>
+					<div class="col-md-3">
+						<div class="com-profile-design wow  fadeInLeft" data-wow-duration="0.6s">
+							<h3>Design Center </h3>
+							<p>You Can Count On Cat Financial To Provide The Best Financing ..</p>
+							<a href="#">LEARN MORE</a>
+						</div>
+					</div>
+					<div class="col-md-3">
+						<div class="com-profile-design wow  fadeInRight" data-wow-duration="0.6s">
+							<h3>Gifts &amp; Apparel</h3>
+							<p>The One-Stop Spot For all Officaial caterpillar Licensed Merchandise </p>
+							<a href="#">LEARN MORE</a>
+						</div>
+					</div>
+					<div class="col-md-3">
+						<div class="com-profile-design wow  fadeInRight" data-wow-duration="0.8s">
+							<h3>Customers &amp; Partners</h3>
+							<p>Get The Latest News And Announcements About Cat Products</p>
+							<a href="#">LEARN MORE</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="Solution-bg">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-3">
+					<div class="solution wow  slideInDown" data-wow-duration="0.4s">
+						<div class="solution-img-box">
+							<img src="images/solution.png" alt="">
+						</div>
+						<h3>SOLUTION</h3>
+						<p>Lorem Ipsum is lso known as: Greeked text, blinder lipsum, and mock-content.</p>
+					</div>
+				</div>
+				<div class="col-md-3">
+					<div class="solution wow  slideInDown" data-wow-duration="0.6s">
+						<div class="solution-img-box ">
+							<img src="images/services.png" alt="">
+						</div>
+						<h3>SERVICE CENTER</h3>
+						<p>Lorem Ipsum is lso known as: Greeked text, blinder lipsum, and mock-content.</p>
+					</div>
+				</div>
+				<div class="col-md-3">
+					<div class="solution wow  slideInDown" data-wow-duration="0.8s">
+						<div class="solution-img-box">
+							<img src="images/application.png" alt="">
+						</div>
+						<h3>APPLICATION GUIDE</h3>
+						<p>Lorem Ipsum is lso known as: Greeked text, blinder lipsum, and mock-content.</p>
+					</div>
+				</div>
+				<div class="col-md-3">
+					<div class="solution wow  slideInDown" data-wow-duration="1s">
+						<div class="solution-img-box">
+							<img src="images/projects.png" alt="">
+						</div>
+						<h3>PROJECTS</h3>
+						<p>Lorem Ipsum is lso known as: Greeked text, blinder lipsum, and mock-content.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	
+    <footer class="footer">
+		<div class="container">
+			<div class="inner-container">
+				<div class="row">
+					<div class="col-md-3">
+						<div class="footer-inner">
+							<h3>About Company </h3>
+							<p>Lorem ipsum Etiam eget accumsan neque, et sollicitudin lacus. Ut nunc nibh, molestie vel varius in, placerat vel velit.Etiamnon euismod ante. Nulla id fermentum augue,</p>
+							<a href="#">READ MORE</a>
+						</div>
+					</div>
+					<div class="col-md-3">
+						<div class="footer-inner">
+							<h3>Quick Links</h3>
+							<ul class="footer-list list-style">
+								<li class="active"><a href="index.html">HOME</a></li>
+							  <li><a href="">  CAPACITORS    </a></li>
+							  <li><a href="#"> SOLUTIONS  </a></li>
+							  <li><a href="">  TECHNICAL CENTER  </a></li> 
+							  <li><a href=""> DESIGN CENETER  </a></li> 
+							  <li><a href="#">ABOUT US</a></li> 
+							  <li><a href="#"> NEWS</a></li> 
+							  <li><a href="#">CONTACTS</a></li>
+							</ul>
+							
+						</div>
+					</div>
+					<div class="col-md-3">
+						<div class="footer-inner">
+							<h3>Social Links</h3>
+							<ul class="social-list">
+								<li><a href="#"><img src="images/fb.png" alt=""></a></li>
+								<li><a href="#"><img src="images/tw.png" alt=""></a></li>
+								<li><a href="#"><img src="images/rssp.png" alt=""></a></li>
+								<li><a href="#"><img src="images/gp.png" alt=""></a></li>
+							</ul>
+						</div>
+					</div>
+					<div class="col-md-3">
+						<div class="footer-inner">
+							<h3>Subscribe</h3>
+							<form class="footer-form">
+								<input type="text" name="" placeholder="Your Email">
+								<button type="submit">Subscribe</button>
+							</form>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="footer-bottom text-center">
+			<div class="container">
+				<p>Cornelldubilier© 2016</p>
+			</div>
+		</div>
+	</footer>
+	
+	
+
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/wow.js"></script>
+		<script src="js/custom.js"></script>
+		<script type="text/javascript">
+			new WOW().init();
+		</script>
+  </body>
+</html>
+
